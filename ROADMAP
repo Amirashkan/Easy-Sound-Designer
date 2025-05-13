@@ -1,0 +1,8 @@
+## Future Plans
+
+In the next releases, we plan to implement the following features:
+
+- **MIDI Support**: Add full MIDI integration for controlling the synthesizer with external MIDI devices.
+- **Audio Effects**: Expand the library of effects available for more sound design options.
+- **Improved Performance**: Optimize the system for smoother user experience, especially in real-time performance scenarios.
+- **Advanced UI/UX**: Improve user interface and interaction for a more intuitive design workflow.
