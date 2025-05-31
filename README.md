@@ -1,53 +1,51 @@
-# Easy Sound Designer
+# ESD – Easy Sound Designer 🎛️
 
-An experimental and minimal sound sequencer built in TouchDesigner.
-
-This project is designed to provide simple tools for audio creation — especially for beginners or playful exploration.
+ESD is a real-time audio synthesizer built entirely within TouchDesigner, designed to let users explore sound directly through interaction without the need for prior knowledge or complex setups.
 
 ---
 
-## 🎛 Features
+## 🎧 Features
 
-- Step sequencer (8 steps)
-- Preset models (4 options)
-- Volume, type, and voice controls
-- Mood and note modes (Pulse, Fast, Slow)
-- Reverb effect
-- Play & Record functions
+- TouchDesigner-native synthesizer with modular structure  
+- Clear signal flow and labeled controls  
+- Reverb, delay, modulation, and noise shaping  
+- Lightweight and flexible — from quick sketches to live use  
 
 ---
 
-## 🚧 Status
+## 🚀 How to Use
 
-**Version 1.0**  
-This is an early prototype. Feedback is welcome!  
-More features and polish coming soon.
+1. Open `ESD.tox` in TouchDesigner (2022+ recommended)  
+2. Press **play** (bottom-left corner)  
+3. Adjust sliders to start generating and manipulating sound  
 
----
-
-## 🛠 Requirements
-
-- [TouchDesigner](https://derivative.ca) 099 or higher  
-(Tested on 2023.11340)
+Make sure your speakers or headphones are on — no other setup required.
 
 ---
 
-## 📂 How to Use
+## 🎥 Tutorials
 
-1. Clone or download the repository.
-2. Open `EasySoundDesigner.toe` in TouchDesigner.
-3. Press Play and start experimenting.
-
----
-
-## 🎧 Made in Tenderworld
-
-A platform for creating tools, visuals, and sounds.
-
-> [Tenderworld on YouTube](https://www.youtube.com/@TenderWorld)
+Want a walkthrough?  
+Check out the video tutorials here:  
+🎬 -----
 
 ---
 
-## 📝 License
+## 🧠 Concept
 
-MIT — free to use, modify, and share.
+ESD was made as a direct interface to sound.  
+It doesn’t simulate hardware or follow traditional synth rules — it’s built to be touched, seen, and heard.
+
+---
+
+## 🛠 License
+
+Released under the MIT License.
+
+---
+
+## 🌐 About
+
+Created by **TenderWorld**  
+More: [YouTube](https://youtube.com/@TenderWorld)  
+Support: [Patreon](https://www.patreon.com/TenderWorld)
