@@ -28,6 +28,8 @@ Make sure your speakers or headphones are on — no other setup required.
 Want a walkthrough?  
 Check out the video tutorials here:  
 🎬 -----
+There's also a user manual available for download. I highly recommend checking it out — it explains every section in detail. You can get it from the GitHub page linked in the description.
+
 
 ---
 
