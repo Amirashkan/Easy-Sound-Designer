@@ -49,5 +49,5 @@ Released under the MIT License.
 ## 🌐 About
 
 Created by **TenderWorld**  
-More: [YouTube](https://youtube.com/@TenderWorld)  
+More: [YouTube](https://youtube.com/@yourtenderWorld) 
 Support: [Patreon](https://www.patreon.com/TenderWorld)
